@@ -9,6 +9,7 @@
   version 2.1 of the License, or (at your option) any later version.
 */
 
+#include <Arduino.h>
 #include <math.h>
 #include <stdlib.h>
 #include <inttypes.h>
